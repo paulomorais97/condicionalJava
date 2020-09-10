@@ -10,7 +10,6 @@ public class Exe4 {
 		
 		numero = r.nextInt(100);
 		
-		
 		if ((numero%2)==0)
 		{
 			System.out.println("O número "+numero+" é par...");
